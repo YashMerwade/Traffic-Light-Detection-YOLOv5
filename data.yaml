@@ -1,0 +1,7 @@
+train: D:/BVB/Yolov5/traffic_lights_yolo/images/train
+val: D:/BVB/Yolov5/traffic_lights_yolo/images/val
+
+nc: 8
+names: ['red', 'yellow', 'green', 'class3', 'class4', 'class5', 'class6', 'class7']
+
+
