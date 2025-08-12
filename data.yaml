@@ -1,0 +1,14 @@
+names:
+- green
+- red
+- yellow
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: traffic-light-nugkt-kur5g
+  url: https://app.roboflow.com/cim-team-1/traffic-light-nugkt-kur5g/1
+  version: 1
+  workspace: cim-team-1
+test: /content/traffic-light-1/test/images
+train: /content/traffic-light-1/train/images
+val: /content/traffic-light-1/valid/images
