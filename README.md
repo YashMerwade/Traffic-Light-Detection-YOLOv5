@@ -51,9 +51,10 @@ Here you can see that YOLO has detected traffic light in the input image.
 
 - `python yolo_video.py --input videos/airport.mp4 --output output/airport_output.avi --yolo yolo-coco`
 
-## Screenshots
+## Video Output
 
-<img src="https://github.com/yash42828/YOLO-object-detection-with-OpenCV/blob/master/Object%20detection%20using%20video/car.gif">
+![Traffic Light Detection](https://github.com/YashMerwade/Traffic-Light-Detection/blob/main/Traffic Light Detection.mp4?raw=true)
+
 
 In the video/GIF, you can see traffic light detected.
 
