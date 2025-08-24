@@ -35,6 +35,8 @@ Ultimately, the project aims to build a scalable, efficient, and accurate soluti
 - `python yolo.py --image images/baggage_claim.jpg`
 
 ## Screenshots
+![Image](Images/Green.png)
+![Image](Images/Yellow.png)
 ![Image](Images/Red.png)
 
 Here you can see that YOLO has detected traffic light in the input image.
