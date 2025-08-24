@@ -55,7 +55,7 @@ Here you can see that YOLO has detected traffic light in the input image.
 
 ## Video Output
 
-[Click to Watch](Traffic Light Detection.mp4)
+[Click to Watch](Traffic_Light_Detection.mp4)
 
 
 In the video/GIF, you can see traffic light detected.
